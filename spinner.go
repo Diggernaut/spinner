@@ -1,0 +1,5 @@
+package spinner
+
+func Spin() {
+
+}
